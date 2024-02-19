@@ -1,1 +1,1 @@
-console.log("fasz");
+console.log("siker");
