@@ -1,1 +1,3 @@
-console.log("siker")
+import { helloWorld } from './function.js';
+
+helloWorld();
