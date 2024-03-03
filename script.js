@@ -1,4 +1,4 @@
-fetch('function.js') // Betöltjük a function.js tartalmát
+fetch('https://oreg-kh.github.io/function.js') // Betöltjük a function.js tartalmát
   .then(response => response.text())
   .then(text => {
     // A betöltött kód text formátumban van, így ki kell értékelni
